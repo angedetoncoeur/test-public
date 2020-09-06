@@ -1,0 +1,3 @@
+run:
+  test1: 'ls'
+  test2: 'ls -la'
